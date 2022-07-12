@@ -1,3 +1,7 @@
 .vscode
-.src/Monad/obj/*
-.src/Monad/bin/*
+src/Monad/obj/*
+src/Monad/bin/*
+src/Parser/bin/*
+src/Parser/obj/*
+
+
