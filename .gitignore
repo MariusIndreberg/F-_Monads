@@ -1,0 +1,3 @@
+.vscode
+.src/Monad/obj/*
+.src/Monad/bin/*
