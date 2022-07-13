@@ -5,3 +5,5 @@ src/Parser/bin/*
 src/Parser/obj/*
 
 
+
+.fake
